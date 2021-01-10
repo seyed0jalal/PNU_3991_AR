@@ -14,7 +14,7 @@
 # پروژه و کارهای کلاسی درس نظریه زبان و ماشین💼📐📏
 
 ## کارهای میان ترم✏
-- [حساب گیت هاب من](link)
+- [حساب گیت هاب من](https://github.com/seyed0jalal)
 - [PNU_3991_AR](link)
 - [فرم رزومه و سوابق کاری من](https://seyed0jalal.github.io/seyed0jalal-gitub.io/)(My website test www.71398.ir) 
 - [فرم انگیزه نامه من](https://github.com/seyed0jalal/PNU_3991_AR/blob/main/mysop.pdf)
