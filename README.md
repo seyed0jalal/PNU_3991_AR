@@ -21,7 +21,7 @@
 - [فرم انگیزه نامه من](https://github.com/seyed0jalal/PNU_3991_AR/blob/main/mysop.pdf)
 - [مدرک جاوا اسکریپ من](https://www.sololearn.com/Certificate/1024-20337546/pdf/)
 ## استاد من با کمک دوستم بصیری تونستم دستورات گیت رو یاد بگیرم. چون شاخه این اسمم داخل ریپازیتوری من نیست با گیت هاب دوستم بصیری شاخه اسمم رو اضافه کردم.⚠
-- [patchwork](https://github.com/seyed0jalal/PNU_3991_AR/blob/main/mypatchwork.jpg)
+- [patchwork](https://github.com/seyed0jalal/PNU_3991_AR/blob/main/seyedpatchwork.jpg)
 ------------------
 ## فرم های ارزیابی من📊📈
 
