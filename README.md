@@ -16,7 +16,7 @@
 ## کارهای میان ترم✏
 - [حساب گیت هاب من](link)
 - [PNU_3991_AR](link)
-- [فرم رزومه و سوابق کاری من](My website test www.71398.ir) 
+- [فرم رزومه و سوابق کاری من](https://seyed0jalal.github.io/seyed0jalal-gitub.io/)(My website test www.71398.ir) 
 - [فرم انگیزه نامه من](link)
 - [مدرک جاوا اسکریپ من](link)
 ------------------
