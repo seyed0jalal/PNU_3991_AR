@@ -41,7 +41,7 @@
 ## کارهای پایان ترم📖📗📘📕
 - [فایل تایپی من صفحات 365 الی 368 pdf](https://github.com/seyed0jalal/PNU_3991_AR/blob/main/mylatex/365-368.pdf)
 - [فایل تایپی من صفحات 365 الی 368 tex](https://github.com/seyed0jalal/PNU_3991_AR/blob/main/mylatex/365-368.tex)
-- [در دست تکمیل فیلم ارائه پاورپوینت من](link)
+- [در آپارات فیلم ارائه پاورپوینت من](https://www.aparat.com/v/IbEvC)
 
 
 
